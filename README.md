@@ -1,3 +1,10 @@
+# Mathesar fork
+
+- update gitignore
+- change config/settings/production.py
+- add scripts to start gunicorn
+
+
 <p align="center">
     <img src="https://user-images.githubusercontent.com/845767/218793207-a84a8c9e-d147-40a8-839b-f2b5d8b1ccba.png" width=450px alt="Mathesar logo"/>
 </p>
